@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@isomerpages/isomerpages-travisci-scripts": "^1.4.9"
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.10"
   }
 }
